@@ -1,0 +1,7 @@
+For every node, keys in left are smaller and keys in right side are greater.
+
+All keys are typically considered as Distinct.
+
+Like Linked List ,it is a Linked Data Structure.
+
+Implemented in C++ as map,set,multimap and multiset.And in Java as Treeset and Treemap.
